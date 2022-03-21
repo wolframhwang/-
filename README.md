@@ -1,5 +1,5 @@
-# ProblemSovingRepo
-Swift로 푸는 문제 풀이 저장소
+# Dynamic Programming
+Swift로 다이나믹 프로그래밍과 그리디 문제를 푸는 저장소
 
 
 | date       | problem set                                                                | 위치 |
