@@ -14,3 +14,4 @@ Swift로 다이나믹 프로그래밍과 그리디 문제를 푸는 저장소
 | 03.25      | [행렬 곱셈 순서](https://www.acmicpc.net/problem/11049) | [풀이](https://github.com/wolframhwang/YouCanSolveDynamicPrgorammingAndGreedyProblem/tree/main/%ED%96%89%EB%A0%AC%20%EA%B3%B1%EC%85%88%20%EC%88%9C%EC%84%9C) |
 | 03.29      | [1학년](https://www.acmicpc.net/problem/5557) | [풀이](https://github.com/wolframhwang/YouCanSolveDynamicPrgorammingAndGreedyProblem/tree/main/1%ED%95%99%EB%85%84) |
 | 03.31      | [풍선 터트리기](https://programmers.co.kr/learn/courses/30/lessons/68646?language=swift) | [풀이](https://github.com/wolframhwang/YouCanSolveDynamicPrgorammingAndGreedyProblem/tree/main/%ED%92%8D%EC%84%A0%20%ED%84%B0%ED%8A%B8%EB%A6%AC%EA%B8%B0) |
+| 04.04      | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [풀이](https://github.com/wolframhwang/YouCanSolveDynamicPrgorammingAndGreedyProblem/tree/main/Sliding%20Window%20Maximum) |
