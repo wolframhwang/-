@@ -15,3 +15,4 @@ Swift로 다이나믹 프로그래밍과 그리디 문제를 푸는 저장소
 | 03.29      | [1학년](https://www.acmicpc.net/problem/5557) | [풀이](https://github.com/wolframhwang/YouCanSolveDynamicPrgorammingAndGreedyProblem/tree/main/1%ED%95%99%EB%85%84) |
 | 03.31      | [풍선 터트리기](https://programmers.co.kr/learn/courses/30/lessons/68646?language=swift) | [풀이](https://github.com/wolframhwang/YouCanSolveDynamicPrgorammingAndGreedyProblem/tree/main/%ED%92%8D%EC%84%A0%20%ED%84%B0%ED%8A%B8%EB%A6%AC%EA%B8%B0) |
 | 04.04      | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [풀이](https://github.com/wolframhwang/YouCanSolveDynamicPrgorammingAndGreedyProblem/tree/main/Sliding%20Window%20Maximum) |
+| 04.05      | [RGB 거리 2](https://www.acmicpc.net/problem/17404) | [풀이](https://github.com/wolframhwang/YouCanSolveDynamicPrgorammingAndGreedyProblem/blob/main/RGB%EA%B1%B0%EB%A6%AC%202/Wolfram_RGB%EA%B1%B0%EB%A6%AC%202.swift) |
