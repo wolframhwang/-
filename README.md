@@ -19,3 +19,4 @@ Swift로 다이나믹 프로그래밍과 그리디 문제를 푸는 저장소
 | 04.06      | [Coin Change](https://leetcode.com/problems/coin-change/) | [풀이](https://github.com/wolframhwang/YouCanSolveDynamicPrgorammingAndGreedyProblem/blob/main/Coin%20Change/Wolfram_Coin%20Change.swift) |
 | 04.07      | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [풀이](https://github.com/wolframhwang/YouCanSolveProblem/blob/main/Validate%20Binary%20Search%20Tree/Wolfram_Validate%20Binary%20Search%20Tree.swift) |
 | 04.12      | [램프](https://www.acmicpc.net/problem/1034) | [풀이](https://github.com/wolframhwang/YouCanSolveProblem/tree/main/%EB%9E%A8%ED%94%84) |
+| 04.15      | [연속합 2](https://www.acmicpc.net/problem/13398) | [풀이](https://github.com/wolframhwang/YouCanSolveProblem/blob/main/%EC%97%B0%EC%86%8D%ED%95%A9%202/Wolfram_%EC%97%B0%EC%86%8D%ED%95%A9%202.swift) |
