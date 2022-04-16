@@ -25,3 +25,4 @@
 | 04.07      | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [풀이](https://github.com/wolframhwang/YouCanSolveProblem/blob/main/Validate%20Binary%20Search%20Tree/Wolfram_Validate%20Binary%20Search%20Tree.swift) |
 | 04.12      | [램프](https://www.acmicpc.net/problem/1034) | [풀이](https://github.com/wolframhwang/YouCanSolveProblem/tree/main/%EB%9E%A8%ED%94%84) |
 | 04.15      | [연속합 2](https://www.acmicpc.net/problem/13398) | [풀이](https://github.com/wolframhwang/YouCanSolveProblem/blob/main/%EC%97%B0%EC%86%8D%ED%95%A9%202/Wolfram_%EC%97%B0%EC%86%8D%ED%95%A9%202.swift) |
+| 04.16      | [110 옮기기](https://programmers.co.kr/learn/courses/30/lessons/77886) | [풀이](https://github.com/wolframhwang/ProblemSolving_Rehabilitation_Center/blob/main/110%20%EC%98%AE%EA%B8%B0%EA%B8%B0/Wolfram_110%20%EC%98%AE%EA%B8%B0%EA%B8%B0.swift) |
